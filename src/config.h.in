@@ -1,0 +1,10 @@
+#pragma once
+
+#include "system/log.h"
+#include "system/memory.h"
+#include "system/string-generator.h"
+#include "system/utility.h"
+
+// the configured options and settings for Tutorial
+#define CPP_DIRECTX_UNITYCHAN_VERSION_MAJOR @cpp-directx-unitychan_VERSION_MAJOR@
+#define CPP_DIRECTX_UNITYCHAN_VERSION_MINOR @cpp-directx-unitychan_VERSION_MINOR@
